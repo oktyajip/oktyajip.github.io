@@ -1,0 +1,65 @@
+header {
+    .slide {
+        img{
+            height: 85vh;
+        }
+    }
+}
+
+.btn-card {
+    background-color: #4524faff;
+    color: #fff;
+
+    &:hover {
+        background-color: rgb(53, 30, 184);
+        color: #fff;
+    }
+}
+
+.col-image {
+    img {
+        width: 100%;
+    }
+}
+
+.footer {
+    background-color: #202427ff;
+    color: #fff;
+    padding-top: 10px;
+
+    .social-media {
+        button {
+            background-color: #202427ff;
+            border-radius: 5px;
+            border: solid 1px #fff;
+            color: #fff;
+            margin: 5px;
+            padding: 2px 5px;
+
+            &:hover {
+                background-color: #fff;
+                color: #202427ff;
+            }
+        }
+    }
+
+    .footer-menu {
+        a {
+            color: #fff;
+            text-decoration: underline;
+        }
+    }
+
+}
+
+.footer-copyright {
+    background-color: #000;
+    p {
+        margin: 0;
+    }
+
+    a {
+        color: #fff;
+        text-decoration: underline;
+    }
+}

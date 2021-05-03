@@ -1,0 +1,56 @@
+header .slide img {
+  height: 85vh;
+}
+
+.btn-card {
+  background-color: #4524faff;
+  color: #fff;
+}
+
+.btn-card:hover {
+  background-color: #351eb8;
+  color: #fff;
+}
+
+.col-image img {
+  width: 100%;
+}
+
+.footer {
+  background-color: #202427ff;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.footer .social-media button {
+  background-color: #202427ff;
+  border-radius: 5px;
+  border: solid 1px #fff;
+  color: #fff;
+  margin: 5px;
+  padding: 2px 5px;
+}
+
+.footer .social-media button:hover {
+  background-color: #fff;
+  color: #202427ff;
+}
+
+.footer .footer-menu a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer-copyright {
+  background-color: #000;
+}
+
+.footer-copyright p {
+  margin: 0;
+}
+
+.footer-copyright a {
+  color: #fff;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=style.css.map */
